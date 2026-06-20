@@ -33,7 +33,7 @@ characterizing component life from test data.
 **Tools:** Excel · MIL-STD-105E tables · reliability software · sqconline calculator
 **What it demonstrates:** AQL sampling, OC/ASN curves, reliability metrics, hazard-rate (bathtub) reasoning, distribution fitting — the everyday toolkit of a reliability/quality engineer.
 
-📎 *[link to repo / report]*
+📎 [Repository →](https://github.com/andreipopae/reliability-quality-engineering)
 
 ---
 
@@ -53,7 +53,7 @@ driving an RL load, optimized for step response.
 **Tools:** PSIM · control theory · power electronics
 **What it demonstrates:** closed-loop control design, power-electronics modeling, frequency-domain stability analysis, simulation-driven validation against theoretical targets.
 
-📎 *[link to repo / report]*
+📎 [Repository →](https://github.com/andreipopae/pwm-current-control-converter)
 
 ---
 
@@ -72,7 +72,7 @@ designed, hand-analyzed, simulated **and physically built**. Developed in the ET
 **Tools:** SPICE · DIYLC · hand analysis · THT assembly / soldering
 **What it demonstrates:** analog circuit design, biasing and safe-operating-area analysis, BOM/DFM basics, and the hands-on bench skill of getting a real board to behave.
 
-📎 *[link to repo / report]*
+📎 [Repository →](https://github.com/andreipopae/analog-audio-preamplifier)
 
 ---
 
@@ -86,7 +86,7 @@ designed, hand-analyzed, simulated **and physically built**. Developed in the ET
 **Tools:** Python · matplotlib · LaTeX
 **What it demonstrates:** applied-cryptography understanding, structured benchmarking methodology, and technical writing.
 
-📎 *[link to repo / thesis]*
+📎 [Repository →](https://github.com/andreipopae/thesis-ed25519-vs-x25519)
 
 ---
 
