@@ -1,6 +1,6 @@
 # Andrei-Emanuel Popa
 
-**Applied Electronics Graduate | Data Analysis · Process Improvement · Testing · Reliability
+Applied Electronics Graduate | Data Analysis · Process Improvement · Testing · Reliability
 Bucharest, Romania · [andreipopae@gmail.com](mailto:andreipopae@gmail.com) · LinkedIn: www.linkedin.com/in/andrei-emanuel-59149635b
 
 ---
